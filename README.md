@@ -32,9 +32,12 @@ What you need:
 * Socket.io installed globally
 * coffeescript
 
-Download rbs1.coffee and run it with:
+Download rbs1.coffee to your Raspberry Pi and run it with:
 * pi@raspberrypi $ coffee rbs1.coffee
 
+
+It helps to have a wifi dongle installed and I recommend a Raspberry Pi B+ as it has a much improved power
+supply and 2 extra usb ports compared to previous models.
 
 
 If you have any comments or questions you can leave them in the RadBench forum: http://www.radbench.com/forum/index.php.
