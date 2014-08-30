@@ -1,3 +1,5 @@
+####INTRODUCTION
+
 So you have a couple of Raspberry Pis lying around unused, each time you try to put them to some use you struggle with all the programming steps required.
 
 With RadBench you can quickly create a Visual Program that communicates with your devices like the Raspberry Pi.
@@ -15,6 +17,20 @@ Your next question is probably about how to setup the Raspberry Pi to work with 
 There are many possibilities and many will be explored but let's start with setting up the Raspberry Pi to communicate via sockets to RadBench and implemented in node.js.
 
 As you might want to learn on the way, this will be done in steps, starting with a very simple example server that you'll find in rbs1.coffee.
+
+####SETTING UP A RASPBERRY PI AS A SIMPLE SERVER
+
+What you need:
+
+* A Raspberry Pi with raspbian installed
+* Node.js installed
+* Socket.io installed globally
+* coffeescript
+
+Download rbs1.coffee and run it with:
+pi@raspberrypi $ coffee rbs1.coffee
+
+
 
 If you have any comments or questions you can leave them in the RadBench forum: http://www.radbench.com/forum/index.php.
 
