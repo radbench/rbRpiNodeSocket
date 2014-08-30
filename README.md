@@ -16,6 +16,6 @@ There are many possibilities and many will be explored but let's start with sett
 
 As you might want to learn on the way, this will be done in steps, starting with a very simple example server that you'll find in rbs1.coffee.
 
-If you have any comments or questions you can leave them in the RadBench forum: http://www.radbench.com/forum.
+If you have any comments or questions you can leave them in the RadBench forum: http://www.radbench.com/forum/index.php.
 
 
