@@ -3,6 +3,10 @@ So you have a couple of Raspberry Pis lying around unused, each time you try to 
 With RadBench you can quickly create a Visual Program that communicates with your devices like the Raspberry Pi.
 The following schematic shows an example of such a program:
 
+
+
+![rbs1sch](http://www.radbench.com/assets/rbs1sch.png)
+
 The image above is a screen capture but if you go to the RadBench website it's actually a running program. 
 Once you have your Raspberry Pi setup you can try it at: http://www.radbench.com/schematics/14
 
