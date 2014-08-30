@@ -1,6 +1,11 @@
 ####INTRODUCTION
 
-So you have a couple of Raspberry Pis lying around unused, each time you try to put them to some use you struggle with all the programming steps required.
+So you have a couple of Raspberry Pis lying around unused, each time you try to put them to some use you struggle with all the programming steps required. Wouldn't it be great if you could easily set them up around your home to read 
+sensors, control hardware devices, appliances etc and easily control them from your smartphone, tablet or laptop?
+
+RadBench allows you to do that.
+Here on this github repository you'll find code to setup a Raspberry Pi for integrating
+with RadBench.
 
 With RadBench you can quickly create a Visual Program that communicates with your devices like the Raspberry Pi.
 The following schematic shows an example of such a program:
@@ -28,7 +33,7 @@ What you need:
 * coffeescript
 
 Download rbs1.coffee and run it with:
-pi@raspberrypi $ coffee rbs1.coffee
+* pi@raspberrypi $ coffee rbs1.coffee
 
 
 
